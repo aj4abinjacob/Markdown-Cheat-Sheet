@@ -6,7 +6,7 @@ List of contents
 - [Lists](#list)
     - [Ordered list](#ordered-list)
     - [Unordered list](#unordered-list)
-
+- [Table](#table)
 
 
 ## Headings
@@ -82,4 +82,12 @@ _Italics with one underscore_
 -  Two   
     - One 
     - Two 
-    - Three 
+    - Three   
+
+
+
+## Table 
+| Header      | Another Head | Another Header    |
+| :---        |    :----:   |          ---: |
+| left aligned | centered       | right aligned   |
+| Paragraph   | Text        | And more      |
