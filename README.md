@@ -27,7 +27,9 @@ List of contents
 ## Font Styling
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem necessitatibus rerum aliquid a incidunt dolores ipsam quam fugit, illum, doloribus corporis? Sapiente minus magnam modi cum officia tempora sint at.
 
-
+```
+**Bold**
+```
 
 
 
