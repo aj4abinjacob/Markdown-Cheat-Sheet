@@ -28,13 +28,33 @@ List of contents
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem necessitatibus rerum aliquid a incidunt dolores ipsam quam fugit, illum, doloribus corporis? Sapiente minus magnam modi cum officia tempora sint at.
 
 ```
-**Bold**
+**Bold with two asterisks**
+__Bold with two underscores__
+
+*Italics with one asteisk*
+_Italics with one underscore_
+
+~~Strike through with two tilda~~
+
 ```
+**Bold with two asterisks**  
+__Bold with two underscores__  
+
+*Italics with one asteisk*  
+_Italics with one underscore_
 
 
+~~Strike through with two tilda~~
 
+## List 
 
-
-# Table
+1.  Ordered list
+2.  Unordered list  
+    1. Ordered Again
+    2. 2nd Ordered
+    3. 3rd Ordered
+        -   list inside list inside list 😜
+        -   😁   
+  
 
 
