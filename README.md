@@ -87,6 +87,13 @@ _Italics with one underscore_
 
 
 ## Table 
+```
+| Header      | Another Head | Another Header    |
+| :---        |    :----:   |          ---: |
+| left aligned | centered       | right aligned   |
+| Paragraph   | Text        | And more      |
+```
+
 | Header      | Another Head | Another Header    |
 | :---        |    :----:   |          ---: |
 | left aligned | centered       | right aligned   |
