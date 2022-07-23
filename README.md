@@ -38,7 +38,6 @@ __Bold with two underscores__
 _Italics with one underscore_
 
 ~~Strike through with two tilda~~
-
 ```
 **Bold with two asterisks**  
 __Bold with two underscores__  
@@ -59,7 +58,6 @@ _Italics with one underscore_
     1. One 
     2. Two 
     3. Three 
-
 ```
 
 1.  One  
