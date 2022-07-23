@@ -2,7 +2,10 @@
 
 List of contents   
 - [Headings](#headings)
-- [Font Styling](#font-styling)
+- [Font Styling](#font-styling)]
+- [Lists](#list)
+    - [Ordered list](#ordered-list)
+    - [Unordered list](#unordered-list)
 
 
 
@@ -48,13 +51,36 @@ _Italics with one underscore_
 
 ## List 
 
-1.  Ordered list
-2.  Unordered list  
-    1. Ordered Again
-    2. 2nd Ordered
-    3. 3rd Ordered
-        -   list inside list inside list 😜
-        -   😁   
-            -  ╰(*°▽°*)╯
+### Ordered list
+
+```
+1.  One 
+2.  Two   
+    1. One 
+    2. Two 
+    3. Three 
+
+```
+
+1.  One  
+2.  Two   
+    1. One 
+    2. Two 
+    3. Three 
 
 
+### Unordered list
+
+```
+-  One  
+-  Two   
+    - One 
+    - Two 
+    - Three 
+```
+
+-  One  
+-  Two   
+    - One 
+    - Two 
+    - Three 
