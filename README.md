@@ -45,6 +45,7 @@ __Bold with two underscores__
 *Italics with one asteisk*  
 _Italics with one underscore_
 
+***Bold and Italics together***
 
 ~~Strike through with two tilda~~
 
