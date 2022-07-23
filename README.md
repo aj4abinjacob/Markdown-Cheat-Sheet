@@ -2,7 +2,7 @@
 
 List of contents   
 - [Headings](#headings)
-- [Font Styling](#font-styling)]
+- [Font Styling](#font-styling)
 - [Lists](#list)
     - [Ordered list](#ordered-list)
     - [Unordered list](#unordered-list)
