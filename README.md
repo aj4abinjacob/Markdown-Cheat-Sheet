@@ -2,6 +2,7 @@
 
 List of contents   
 - [Headings](#headings)
+- [Line Seperator](#line-seperator)
 - [Font Styling](#font-styling)
     - [Bold](#bold)
     - [Italics](#italics)
@@ -11,6 +12,9 @@ List of contents
     - [Ordered list](#ordered-list)
     - [Unordered list](#unordered-list)
 - [Table](#table)
+- [Code Snippets](#code-snippets)
+- [Images](#images)
+- [Links](#links)
 
 
 ## Headings
@@ -28,7 +32,11 @@ List of contents
 ##### Heading 5
 ###### Heading 6
 ```
+## Line Seperator
 ---
+```
+---
+```
 
 ## Font Styling
 ### Bold
@@ -98,3 +106,23 @@ _Italics with one underscore_
 | left aligned | centered       | right aligned   |
 | Paragraph   | Text        | And more      |
 ```
+
+## Code Snippets
+```python
+print("Hello World")
+```
+```
+```python
+print("Hello World")
+\```
+```
+
+## Images
+![Github Octocat](Images\github-octocat.png "Github Octocat")
+
+## Links
+[Netlify](https://www.netlify.com/ "Netlify")  
+[Vercel](https://vercel.com/ "Vercel")  
+[Shields io](https://shields.io/ "shields.io")
+
+
