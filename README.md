@@ -31,11 +31,13 @@ List of contents
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem necessitatibus rerum aliquid a incidunt dolores ipsam quam fugit, illum, doloribus corporis? Sapiente minus magnam modi cum officia tempora sint at.
 
 ```
-**Bold with two asterisks**
-__Bold with two underscores__
+**Bold with two asterisks**  
+__Bold with two underscores__  
 
-*Italics with one asteisk*
+*Italics with one asteisk*  
 _Italics with one underscore_
+
+***Bold and Italics together***
 
 ~~Strike through with two tilda~~
 ```
