@@ -3,6 +3,10 @@
 List of contents   
 - [Headings](#headings)
 - [Font Styling](#font-styling)
+    - [Bold](#bold)
+    - [Italics](#italics)
+    - [Bold & Italic](#bold--italics)
+    - [Strike Through](#strike-through)
 - [Lists](#list)
     - [Ordered list](#ordered-list)
     - [Unordered list](#unordered-list)
