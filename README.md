@@ -28,28 +28,31 @@ List of contents
 ---
 
 ## Font Styling
-
+### Bold
+**Bold with two asterisks**  
+__Bold with two underscores__  
 ```
 **Bold with two asterisks**  
 __Bold with two underscores__  
-
+```
+### Italics
 *Italics with one asteisk*  
 _Italics with one underscore_
-
+```
+*Italics with one asteisk*  
+_Italics with one underscore_
+```
+### Bold & Italics
 ***Bold and Italics together***
+```
+***Bold and Italics together***
+```
 
+### Strike through
 ~~Strike through with two tilda~~
 ```
-**Bold with two asterisks**  
-__Bold with two underscores__  
-
-*Italics with one asteisk*  
-_Italics with one underscore_
-
-***Bold and Italics together***
-
 ~~Strike through with two tilda~~
-
+```
 ## List 
 
 ### Ordered list
