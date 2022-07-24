@@ -10,7 +10,6 @@ List of contents
 
 
 ## Headings
-```
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -24,7 +23,7 @@ List of contents
 #### Heading 4  
 ##### Heading 5
 ###### Heading 6
-
+```
 ---
 
 ## Font Styling
@@ -57,6 +56,12 @@ _Italics with one underscore_
 
 ### Ordered list
 
+1.  One  
+2.  Two   
+    1. One 
+    2. Two 
+    3. Three 
+
 ```
 1.  One 
 2.  Two   
@@ -64,16 +69,12 @@ _Italics with one underscore_
     2. Two 
     3. Three 
 ```
-
-1.  One  
-2.  Two   
-    1. One 
-    2. Two 
-    3. Three 
-
-
 ### Unordered list
-
+-  One  
+-  Two   
+    - One 
+    - Two 
+    - Three   
 ```
 -  One  
 -  Two   
@@ -81,24 +82,15 @@ _Italics with one underscore_
     - Two 
     - Three 
 ```
-
--  One  
--  Two   
-    - One 
-    - Two 
-    - Three   
-
-
-
 ## Table 
-```
-| Header      | Another Head | Another Header    |
-| :---        |    :----:   |          ---: |
-| left aligned | centered       | right aligned   |
-| Paragraph   | Text        | And more      |
-```
 
 | Header      | Another Head | Another Header    |
 | :---        |    :----:   |          ---: |
 | left aligned | centered       | right aligned   |
 | Paragraph   | Text        | And more      |
+```
+| Header      | Another Head | Another Header    |
+| :---        |    :----:   |          ---: |
+| left aligned | centered       | right aligned   |
+| Paragraph   | Text        | And more      |
+```
